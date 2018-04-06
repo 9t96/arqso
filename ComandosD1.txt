@@ -1,0 +1,31 @@
+El kernel interpreta las instrucciones del software y se comunica con el hardware.
+
+Los SO se diferencia por la linea de comandos, la interfaz de usuario y drivers.
+
+
+
+
+
+
+Comandos
+-------------------------
+
+ls ---> muestra directorios
+	 
+	etc --> Muestra todos mas los archivos ocultos.
+	pwd --> Muestra donde estoy parado.
+
+
+touch---> Cambia la fecha de una archivo y si no existe lo crea por defecto.	
+
+mkdir---> Crea directorios.
+	-p Permite crear subdirectorios sin tener creado el anterior.	
+	
+	ej: "mkdir -p Juegos/{Divertidos/Mario,Aburridos/clash}" ///////// Crear dir con sub
+	    "mkdir -p Juegos/{Divertidos,Aburridos}/Mario"       ///////// Si se repiten los sub esta es la forma.				
+		"mkdir -p Dato/{Personales/{publicos,privados}/BackUp,Fiscales/{Afip,ARba}/Pagos}"
+rm---> Elimina archivo.
+	
+	-r -->Elimina directorio.
+
+		
