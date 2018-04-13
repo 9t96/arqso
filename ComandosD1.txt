@@ -27,5 +27,12 @@ mkdir---> Crea directorios.
 rm---> Elimina archivo.
 	
 	-r -->Elimina directorio.
+	
+echo--> Crea archivos
+	"Ejemplo": echo "Esta es la primera linea">nuevoarchivo.txt
+	
+Nota: Para copiar un archivo "history>>miarchivo.txt"
+			     "hash256sum>>mihash.txt"
+			     
 
 		
