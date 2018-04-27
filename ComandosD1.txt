@@ -34,7 +34,9 @@ echo--> Crea archivos
 Nota: Para copiar un archivo "history>>miarchivo.txt"
 			     "hash256sum>>mihash.txt"
 			     
-		
+			     tty--> numero de consola
+			     
+		cat less more cp
 		--------------------------------------------------------------------------------------------------
 		osboxes.loquesea
 		
