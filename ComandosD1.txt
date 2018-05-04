@@ -36,11 +36,23 @@ Nota: Para copiar un archivo "history>>miarchivo.txt"
 			     
 			     tty--> numero de consola
 			     
-		cat less more cp
+			     pwd--> where am i
+			     
+		cat-->muestracodigofuente
+		less--> mostrar more than less.
+		more--> mostrar contenido
+		cp--> copia
+		sudo su--> super user.
+		whatis--> muestra whatis
+		which-->
 		--------------------------------------------------------------------------------------------------
 		osboxes.loquesea
 		
+		root/etc/passwd
+		more passwd>> DIRECTORIO_DONDE_COPIO_EL_CONTENIDO
 		
+		
+		fhs-->
 		
 		Virtualizacion
 		
