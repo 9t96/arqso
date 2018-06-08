@@ -38,17 +38,7 @@ Nota: Para copiar un archivo "history>>miarchivo.txt"
 			     
 			     
 			     
-			     ----------------------------------
-			     Procesos:
-			     
-			     bg->> background
-			     fg->>foreground?
-			     top-->muestra procesos
-			     kill 'PID'---> mata procesos
-			     Crear proceso__>> (while true; do echo 'date'<> fecha.txt;sleep;done)
-			     ps--> proceso x consola
-			     ps -ef --->
-			     pwd--> where am i
+			     --------------------------------
 			     
 		cat-->muestracodigofuente
 		less--> mostrar more than less.
@@ -57,6 +47,7 @@ Nota: Para copiar un archivo "history>>miarchivo.txt"
 		sudo su--> super user.
 		whatis--> muestra whatis
 		which-->
+		pwd--> where am i
 		--------------------------------------------------------------------------------------------------
 		osboxes.loquesea
 		
@@ -70,6 +61,26 @@ Nota: Para copiar un archivo "history>>miarchivo.txt"
 		
 		Ventajas: Abaratamiento de costos, mas espacio, seguridad ante falla de software.
 			     ----------------------------------------------
+				Procesos:
+			     
+			     bg->> background
+			     fg->>foreground?
+			     top-->muestra procesos
+			     kill 'PID'---> mata procesos
+			     Crear proceso__>> (while true; do echo 'date'<> fecha.txt;sleep;done)
+			     ps--> proceso x consola
+			     ps -ef --->
+			     grep--> busca palabras
+			     
+			     cat archivo | grep LOQUQUIERABUSCAR
+			   			^algo //Lo que empiece con x
+			     			algo$ // Que termine con x
+						[LETRAS] //que contenga esas letras
+						LETRAS //que contenga esa secuencia de letras
+						Nummero //Que contenga numero
+						[0-9] // que contenga alguno del 0 al 9
+						[0-9]@ //que contenga numeros antes del @
+			     
 			     
 			     disown
 			     ps
