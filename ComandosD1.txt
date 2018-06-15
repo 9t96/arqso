@@ -73,7 +73,11 @@ Nota: Para copiar un archivo "history>>miarchivo.txt"
 			     grep--> busca palabras
 			     useradd--> Agregar usuario
 			     usermod --> modifica usuario.
+			     groupadd-->agrega un grupo
+			     groupmod-->modifica grupo
 			     chown--> change owner
+			     		chown usuario:GRUPO watevr
+			     		chown :GRUPO watevr
 			     
 			 
 			     
