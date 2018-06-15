@@ -71,6 +71,11 @@ Nota: Para copiar un archivo "history>>miarchivo.txt"
 			     ps--> proceso x consola
 			     ps -ef --->
 			     grep--> busca palabras
+			     useradd--> Agregar usuario
+			     usermod --> modifica usuario.
+			     chown--> change owner
+			     
+			 
 			     
 			     cat archivo | grep LOQUQUIERABUSCAR
 			   			^algo //Lo que empiece con x
