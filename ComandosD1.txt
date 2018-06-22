@@ -79,7 +79,16 @@ Nota: Para copiar un archivo "history>>miarchivo.txt"
 			     		chown usuario:GRUPO watevr
 			     		chown :GRUPO watevr
 			     
-			 
+			 	!!!!!!!!Falta particiones.¡¡¡¡¡¡¡¡
+				MEMORIAS!!!!
+				PARTICIONES SUS ESTADOS
+				GITHUB VERSIONADOS
+				PROCESOS COMO MATO COMO CREO, PROCESO INIT PID
+				GREP ETC --> CON PIPE
+				USUARIOS GRUPOS PERMISOS CREAR ELIMINAR PASSWORD
+				PROTOCOLOS FTP SSH 
+				
+				
 			     
 			     cat archivo | grep LOQUQUIERABUSCAR
 			   			^algo //Lo que empiece con x
